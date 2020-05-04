@@ -1,6 +1,6 @@
 package myPackage;
 
-// Test Message for check out
+// Removed test message commit 3
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 public class TestMix {
 
 	@Test
-	public void compare() {
+	public void compare() { 
 
 		int a = 5, b = 3;
 
