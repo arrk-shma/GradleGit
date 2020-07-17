@@ -53,4 +53,9 @@ public class TestMix {
 		Assert.assertTrue((remainder <b), "Incorrect");
 	}
 	
+	@Test
+	public void false() {
+
+		Assert.assertTrue(false);
+	}
 }
